@@ -22,3 +22,7 @@ venv/
 
 # macOS
 .DS_Store
+
+.model_download_cache
+FlashVSR_int8_convrot.safetensors
+FlashVSR-v1.1_int8_convrot.safetensors
